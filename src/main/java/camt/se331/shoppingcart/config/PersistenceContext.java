@@ -47,6 +47,4 @@ class PersistenceContext {
     private static final String PROPERTY_NAME_DB_URL = "db.url";
     private static final String PROPERTY_NAME_DB_USER = "db.username";
 
-
-
 }
